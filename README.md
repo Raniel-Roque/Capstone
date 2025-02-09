@@ -14,6 +14,6 @@ Before getting started, ensure you have the following installed on your machine:
 
 1. **Clone the Repository:**
 2. **Open using VSCode**
-3. **Type in the terminal:** npm install electron --save-dev
+3. **Type in the terminal:** *npm install electron --save-dev*
 
-5. **Run:** npm start
+5. **Run:** *npm start*
